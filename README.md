@@ -1,4 +1,4 @@
-![Francisco Javier](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Francisco Javier%20 Cueto Burgos %20Banner.jpg)
+![Francisco Javier](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20FranciscoJavier%20CuetoBurgos %20Banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Francisco Javier</h2>
 
